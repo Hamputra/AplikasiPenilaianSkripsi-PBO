@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/10 07:20:20.000.786,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/10 07:20:20.000.848,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/10 07:20:21.000.379,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/10 07:53:38.000.576,D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Project1.dproj=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Project1.dproj</Transaction>
+    <Transaction>2023/12/10 07:59:32.000.910,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/10 07:59:32.000.837,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/10 07:59:33.000.249,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/10 08:11:46.000.437,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit1.pas</Transaction>
+    <Transaction>2023/12/10 08:45:08.000.310,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit2.pas</Transaction>
+    <Transaction>2023/12/10 09:25:52.000.345,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit3.pas</Transaction>
+    <Transaction>2023/12/10 09:36:55.000.184,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit4.pas</Transaction>
+    <Transaction>2023/12/10 11:25:16.000.563,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit5.pas</Transaction>
+    <Transaction>2023/12/11 07:18:32.000.813,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/11 07:18:32.000.885,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/11 07:18:33.000.398,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/11 08:09:21.000.312,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit6.pas</Transaction>
+    <Transaction>2023/12/11 08:29:23.000.729,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit7.pas</Transaction>
+    <Transaction>2023/12/11 09:01:22.000.373,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit8.pas</Transaction>
+    <Transaction>2023/12/11 09:26:22.000.139,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit9.pas</Transaction>
+    <Transaction>2023/12/12 16:02:26.000.844,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/12 16:02:26.000.757,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/12 16:02:27.000.171,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/12 22:10:40.000.837,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/12 22:10:40.000.400,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/12 22:10:40.000.337,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/13 09:16:38.000.151,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/13 09:16:38.000.246,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/13 09:16:38.000.569,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/13 10:54:31.000.609,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/13 10:54:31.000.694,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/13 10:54:32.000.060,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/14 01:04:12.000.880,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/14 01:04:12.000.964,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/14 01:04:13.000.283,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/14 02:15:06.000.813,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/14 02:15:06.000.894,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/14 02:15:07.000.439,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/14 05:01:28.000.130,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/14 05:01:28.000.052,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/14 05:01:28.000.699,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+    <Transaction>2023/12/14 07:54:19.000.643,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit10.pas</Transaction>
+    <Transaction>2023/12/14 08:20:27.000.826,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit11.pas</Transaction>
+    <Transaction>2023/12/14 08:29:45.000.978,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Unit12.pas</Transaction>
+    <Transaction>2023/12/14 17:12:06.000.685,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\ServerModule.pas</Transaction>
+    <Transaction>2023/12/14 17:12:06.000.778,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\MainModule.pas</Transaction>
+    <Transaction>2023/12/14 17:12:07.000.114,=D:\KULIAH\SEMESTER 3\PBO\Delphi\Project UAS\Main.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ServerModule.pas"/>
+    <File Path="ServerModule.dfm"/>
+    <File Path="MainModule.pas"/>
+    <File Path="MainModule.dfm"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit10.pas"/>
+    <File Path="Unit10.dfm"/>
+    <File Path="Unit11.pas"/>
+    <File Path="Unit11.dfm"/>
+    <File Path="Unit12.pas"/>
+    <File Path="Unit12.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit9.pas"/>
+    <File Path="Unit9.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
